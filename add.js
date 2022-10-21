@@ -1,3 +1,3 @@
-function add(){
-    
+function add() {
+  console.log("add");
 }
