@@ -1,1 +1,3 @@
-function sub() {}
+function sub() {
+  console.log("sub");
+}
